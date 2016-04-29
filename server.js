@@ -10,4 +10,4 @@ function start(){
 }
 
 console.log('server start up');
-module.exports.start=start;
+exports=start;
